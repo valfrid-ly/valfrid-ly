@@ -1,7 +1,4 @@
 <p align="center">
-  <!--<a href="https://github.com/valfrid-ly/github-readme-stats/actions">
-    <img alt="Tests Passing" src="https://github.com/valfrid-ly/github-readme-stats/workflows/Test/badge.svg" />
-  </a>-->
   <a href="https://codecov.io/gh/valfrid-ly/github-readme-stats">
     <img src="https://codecov.io/gh/valfrid-ly/github-readme-stats/branch/master/graph/badge.svg" />
   </a>
